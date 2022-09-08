@@ -17,5 +17,5 @@ make run
 ### Use docker image from registry
 
 ```shell
-docker run --network host --name janus -d ghcr.io/bigphuc/janus-gateway-docker:latest
+docker run --network host --name janus -d ghcr.io/trinhdaiphuc/janus-gateway-docker:latest
 ```
